@@ -1,5 +1,0 @@
-cd /path/to/your/repository
-cp ~/Downloads/airindia.png/airIndia/
-git add airIndia/photo_name.jpg
-git commit -m "Add photo to airIndia folder"
-git push origin main
