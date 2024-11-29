@@ -1,0 +1,3 @@
+git add airIndia/airindia.png
+git commit -m "Add photo to airIndia folder"
+git push origin main
